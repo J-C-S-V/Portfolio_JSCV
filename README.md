@@ -1,13 +1,12 @@
 # Portfolio
 
-> In this portfolio, you can see my recent projects and have access to their live demo and repo link.
-
+In this portfolio, you can see my recent projects and have access to their live demo and repo link.
 
 ## Built With
 
 - Major languages: HTML, SCSS, JS
 - Frameworks: React
-- Technologies used: VSCode, Chrome, Git/GitHub 
+- Technologies used: VSCode, Chrome, Git/GitHub
 
 ## Live Demo
 
@@ -15,18 +14,12 @@
 
 ## Authors
 
-👤 **Giuseppe Tomasini**
+👤 **Juan Sanchez**
 
-- GitHub: [@GiuseppeTG](https://github.com/GiuseppeTG)
-- Twitter: [@giusetomasini](https://twitter.com/giusetomasini)
-- LinkedIn: [Giuseppe Tomasini](https://www.linkedin.com/in/giuseppe-tomasini-67ba101a8/)
+- GitHub: [@J-C-S-V](https://github.com/J-C-S-V)
+- Twitter: [@juansan0](https://twitter.com/juansan0)
+- LinkedIn: [Juan Carlos Sanchez Vargas](https://www.linkedin.com/in/juan-carlos-sanchez-vargas-a308b014b/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
