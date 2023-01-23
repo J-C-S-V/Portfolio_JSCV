@@ -14,7 +14,7 @@ In this portfolio, you can see my recent projects and have access to their live 
 
 ## Authors
 
-👤 **Juan Sanchez**
+👦 **Juan Sanchez**
 
 - GitHub: [@J-C-S-V](https://github.com/J-C-S-V)
 - Twitter: [@juansan0](https://twitter.com/juansan0)

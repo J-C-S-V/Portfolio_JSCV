@@ -2,14 +2,14 @@ import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import Navbar from './components/Navbar/Navbar';
-import './App.scss';
+import './App.css';
 
 function App() {
   return (
-    <div className="main">
+    <div className='main'>
       <Navbar />
       <Routes>
-        <Route exact path="/" element={<HomePage />} />
+        <Route exact path='/' element={<HomePage />} />
       </Routes>
     </div>
   );
