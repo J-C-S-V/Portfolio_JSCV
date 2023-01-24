@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import Aos from 'aos';
-import profilePic2 from '../../images/profilePic2.jpg';
+// import profilePic2 from '../../images/profilePic2.jpg';
 import './About.scss';
 
 export default function About() {
@@ -54,11 +54,11 @@ export default function About() {
               <li>VSCode</li>
             </ul>
           </div>
-          <div
+          {/* <div
             className='about-image-container'
             style={{ backgroundImage: `url(${profilePic2})` }}
             data-aos='fade-left'
-          />
+          /> */}
         </div>
       </div>
     </section>
