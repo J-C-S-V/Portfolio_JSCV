@@ -15,38 +15,38 @@ export default function Project({
   github,
 }) {
   return (
-    <li className='project-container'>
+    <li className="project-container">
       <div
-        className='project-image-container'
+        className="project-image-container"
         style={{
           backgroundImage: `url(${image})`,
         }}
       />
-      <div className='project-info'>
-        <p className='project-title'>{name}</p>
-        <p className='project-description'>{description}</p>
+      <div className="project-info">
+        <p className="project-title">{name}</p>
+        <p className="project-description">{description}</p>
       </div>
-      <ul className='languages-list'>
+      <ul className="languages-list">
         {languages.map((language) => (
-          <li key={language} className='language-container'>
+          <li key={language} className="language-container">
             {language}
           </li>
         ))}
       </ul>
-      <div className='project-links-container'>
+      <div className="project-links-container">
         <a
-          className='project-link github-project-link'
+          className="project-link github-project-link"
           href={github}
-          target='_blank'
-          rel='noreferrer'
+          target="_blank"
+          rel="noreferrer"
         >
           <AiOutlineGithub />
         </a>
         <a
-          className='project-link'
+          className="project-link"
           href={live}
-          target='_blank'
-          rel='noreferrer'
+          target="_blank"
+          rel="noreferrer"
         >
           Live
         </a>

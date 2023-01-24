@@ -9,48 +9,43 @@ export default function About() {
   }, []);
 
   return (
-    <section className='section' id='about'>
-      <div className='about'>
-        <div className='section-title' data-aos='fade-right'>
-          <h2 className='about-title'>About Me</h2>
-          <span className='line-span' />
+    <section className="section" id="about">
+      <div className="about">
+        <div className="section-title" data-aos="fade-right">
+          <h2 className="about-title">About Me</h2>
+          <span className="line-span" />
         </div>
-        <div className='about-description' data-aos='fade-up'>
-          <div className='description-text'>
+        <div className="about-description" data-aos="fade-up">
+          <div className="description-text">
             <p>
-              Hello! My name is Giuseppe and I enjoy creating things for the
-              web. My interest in development started back in 2018 when I
-              participated in a <span className='purple-text'>game jam </span>
-              and see how the developers make video games work properly. Turns
-              out I learned some code by seeing how the team was programming the
-              music I made for the game.
+              Hello! My name is Juan Sanchez, I'm a musician that started to
+              love coding once I saw the good we can do to others with it. I was
+              always sorounded by computers in my childhood and teens, then I
+              had to decide to study something between music and system
+              engineering, I chose music, It was a beautiful journey, I finished
+              my 5 years career and worked on it for about 3 years teaching in
+              some schools. Now I have decided to change careers and achieve
+              something that was pending in my teens.
             </p>
             <p>
-              I joined <span className='purple-text'>Microverse, </span>
-              an online school for remote software developers, where I worked on
-              different projects with other students doing pair programming. I
-              also became a{' '}
-              <span className='purple-text'>mentor and code reviewer</span> at
-              the same school. This improved my communication and remote working
-              skills.
+              One of my skills is to teach myself. Back in 2016 I completed a
+              course in coursera called &quot;Learning how to learn: Powerful
+              mental tools to help you master tough subjects&quot;
             </p>
             <p>
-              With time, I started to realize my passion for{' '}
-              <span className='purple-text'>UI/UX</span> and making easy-to-use,
-              responsive, and accessible apps. I am an enthusiastic learner and
-              open to getting out of my comfort zone if that means an
-              improvement in my career.
+              My goal right now is to gain experience and knowledge to help
+              other people and make this world a better place to live for
+              everyone
             </p>
-            <p>Here are some few technologies I&apos;ve been using:</p>
-            <ul className='about-list'>
+            <p>
+              Here are some few technologies and languages I&apos;ve been using:
+            </p>
+            <ul className="about-list">
               <li>HTML</li>
               <li>Javascript</li>
               <li>React</li>
-              <li>Redux</li>
               <li>CSS</li>
-              <li>Jest</li>
               <li>Git/GitHub</li>
-              <li>Netlify</li>
               <li>VSCode</li>
             </ul>
           </div>

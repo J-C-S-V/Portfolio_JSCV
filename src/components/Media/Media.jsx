@@ -17,52 +17,52 @@ export default function Media() {
 
   return (
     <div
-      className='media-section'
-      id='media'
-      data-aos='fade-up'
-      data-aos-anchor-placement='top-bottom'
+      className="media-section"
+      id="media"
+      data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom"
     >
-      <div className='media-title-container'>
-        <span className='contact-line' />
-        <h2 className='media-title'>Contact</h2>
-        <span className='contact-line' />
+      <div className="media-title-container">
+        <span className="contact-line" />
+        <h2 className="media-title">Contact</h2>
+        <span className="contact-line" />
       </div>
-      <p>Email: giusetomasini@gmail.com</p>
-      <div className='icon-container' id='media' ref={mediaSection}>
+      <p>Email: juansan1993@hotmail.com</p>
+      <div className="icon-container" id="media" ref={mediaSection}>
         <a
-          href='https://www.linkedin.com/in/giuseppe-tomasini-g/'
-          target='_blank'
-          className='icon linkedin'
-          rel='noreferrer'
+          href="https://www.linkedin.com/in/giuseppe-tomasini-g/"
+          target="_blank"
+          className="icon linkedin"
+          rel="noreferrer"
         >
-          <AiOutlineLinkedin className='i' />
+          <AiOutlineLinkedin className="i" />
         </a>
 
         <a
-          href='https://github.com/GiuseppeTG'
-          target='_blank'
-          className='icon github'
-          rel='noreferrer'
+          href="https://github.com/GiuseppeTG"
+          target="_blank"
+          className="icon github"
+          rel="noreferrer"
         >
-          <AiOutlineGithub className='i' />
+          <AiOutlineGithub className="i" />
         </a>
 
         <a
-          href='https://www.instagram.com/giusetomasini/'
-          target='_blank'
-          className='icon instagram'
-          rel='noreferrer'
+          href="https://www.instagram.com/giusetomasini/"
+          target="_blank"
+          className="icon instagram"
+          rel="noreferrer"
         >
-          <AiOutlineInstagram className='i' />
+          <AiOutlineInstagram className="i" />
         </a>
 
         <a
-          href='https://twitter.com/giusetomasini'
-          target='_blank'
-          className='icon twitter'
-          rel='noreferrer'
+          href="https://twitter.com/giusetomasini"
+          target="_blank"
+          className="icon twitter"
+          rel="noreferrer"
         >
-          <AiOutlineTwitter className='i' />
+          <AiOutlineTwitter className="i" />
         </a>
       </div>
     </div>
